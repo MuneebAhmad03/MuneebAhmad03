@@ -42,14 +42,11 @@ Frameworks & Tools
 
 📌 Featured Project
 
-<a href="https://github.com/MuneebAhmad03">
+<a href="https://github.com/MuneebAhmad03/Hospital-Management-System">
   <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneebAhmad03&repo=Hospital-Management-System&theme=tokyonight" />
 </a>
 
 🏥 Hospital Management System — A system designed to streamline hospital operations such as patient records, appointments, and administrative management.
-
-(Update the repo name above to match your exact repository name if it differs.)
-
 
 
 <br clear="left"/>
