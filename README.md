@@ -1,11 +1,7 @@
 Readme · MD<h1 align="center">Hi there, I'm Muneeb Ahmad 👋</h1>
 <h3 align="center">💡 "The expert in anything was once a beginner." — Turning code into solutions, one commit at a time.</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+%7C+Django+%7C+Flask+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
 
 🚀 About Me
-
 
 🎓 Computer Science student, passionate about AI/ML & Data Science
 🐍 Currently building projects with Python, Django & Flask
@@ -13,8 +9,6 @@ Readme · MD<h1 align="center">Hi there, I'm Muneeb Ahmad 👋</h1>
 💻 Comfortable across multiple stacks — from mobile apps to databases
 📫 Reach me at muneeebahmad.03@gmail.com
 ⚡ Fun fact: I believe every bug is just an undiscovered feature waiting to be understood 😄
-
-
 
 🛠️ Tech Stack
 
@@ -39,17 +33,6 @@ Frameworks & Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-📌 Featured Project
-
-<a href="https://github.com/MuneebAhmad03/Hospital-Management-System">
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneebAhmad03&repo=Hospital-Management-System&theme=tokyonight" />
-</a>
-
-🏥 Hospital Management System — A system designed to streamline hospital operations such as patient records, appointments, and administrative management.
-
-
-<br clear="left"/>
 
 📊 GitHub Stats
 
